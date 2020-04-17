@@ -1,0 +1,22 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharindu97/Protfolio.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tharindu97/Protfolio/issues"
+  },
+  "homepage": "https://github.com/tharindu97/Protfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
